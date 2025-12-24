@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "HAPPY∞アイカツ！",
+  "base_artist": "STARRY PLANET☆",
+  "createdAt": "2025-12-24T07:51:16.562492Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "HAPPY∞アイカツ!",
+      "artist": "STARRY PLANET☆",
+      "has_synced": false,
+      "path": "select/pl_01_HAPPY∞アイカツ!_STARRY_PLANET☆.txt"
+    }
+  ]
+}
